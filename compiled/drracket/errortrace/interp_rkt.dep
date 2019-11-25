@@ -1,0 +1,1 @@
+("7.4" racket ("9ca9b4dcda9578b89d9d89b5a8be25fca31aa907" . "e1e0b314d1c7c256022af248765333b4db9a4cbf") #"/Users/zhutianxing/github/MiniScheme/env.rkt" #"/Users/zhutianxing/github/MiniScheme/parse.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
